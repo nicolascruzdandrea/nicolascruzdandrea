@@ -42,9 +42,8 @@ I believe that well-analyzed data doesn't just inform—it **transforms**. My ap
 
 ## 📬 Contact
 
-- 📧 Email: nicolascruzdandrea@gmail.com  
+- 📧 Email: ncruzdandrea@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/cruznicolas](https://www.linkedin.com/in/cruznicolas)  
-- 📊 Portfolio (coming soon)
 
 ---
 
