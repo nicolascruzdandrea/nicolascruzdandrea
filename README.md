@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nicolás Cruz D'Andrea
 
-📍 Based in Barcelona, Spain, I'm a data-driven professional passionate about analytics, business intelligence, and process automation. With a background in economics and experience in corporate environments, I bring a strategic mindset to data exploration and decision-making.
+I'm a data-driven professional passionate about analytics, business intelligence, and process automation. With a background in economics and experience in corporate environments, I bring a strategic mindset to data exploration and decision-making.
 
 ---
 
