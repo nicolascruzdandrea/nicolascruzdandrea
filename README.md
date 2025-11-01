@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Nicolás Cruz D'Andrea  
 
 I'm a data-driven professional with a background in **Business Administration** and over **10 years of experience** in management, accounting, and finance.  
+
 I’m passionate about **analytics, business intelligence, and process automation**, and I love transforming data into insights that drive smarter business decisions.  
 
 ---
