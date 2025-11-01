@@ -8,7 +8,8 @@ I’m passionate about **analytics**, **business intelligence**, and **process a
 
 ## 🚀 **About Me**  
 
-As a **Business Administration graduate**, I bring a strong understanding of **business operations** and **strategic management**, combined with a passion for **technology** and **data-driven problem solving**.  
+As a **Business Administration graduate**, I bring a strong understanding of **business operations** and **strategic management**, combined with a passion for **technology** and **data-driven problem solving**. 
+
 I specialize in **Python**, **SQL**, **Power BI**, and **Advanced Excel** to build **data models**, **automate reports**, and **visualize KPIs** that reveal key **business trends**.  
 
 I’m **curious**, **self-taught**, and **results-oriented**, with a genuine passion for **continuous learning** and for uncovering **hidden patterns** that create value through data.  
@@ -54,5 +55,5 @@ Thanks for visiting my profile! If you're interested in collaborating, exchangin
 
 ---
 
-*Turning data into decisions — and decisions into impact.*
+*Turning data into decisions - and decisions into impact.*
 
